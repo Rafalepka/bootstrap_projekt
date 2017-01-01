@@ -1,0 +1,6 @@
+ @media all and (max-width: 980px) {
+     
+     #contact .contact-form-msg {
+         margin-top: 20px;
+     }
+ }
